@@ -1,0 +1,10 @@
+c:\users\z003pe7h\source\repos\SNOWRESTful4DMPM\SNOWRESTful4DMPM\obj\Debug\SNOWRESTful4DMPM.csproj.CoreCompileInputs.cache
+c:\users\z003pe7h\source\repos\SNOWRESTful4DMPM\SNOWRESTful4DMPM\bin\Debug\SNOWRESTful4DMPM.exe.config
+c:\users\z003pe7h\source\repos\SNOWRESTful4DMPM\SNOWRESTful4DMPM\bin\Debug\SNOWRESTful4DMPM.exe
+c:\users\z003pe7h\source\repos\SNOWRESTful4DMPM\SNOWRESTful4DMPM\bin\Debug\SNOWRESTful4DMPM.pdb
+c:\users\z003pe7h\source\repos\SNOWRESTful4DMPM\SNOWRESTful4DMPM\bin\Debug\log4net.dll
+c:\users\z003pe7h\source\repos\SNOWRESTful4DMPM\SNOWRESTful4DMPM\bin\Debug\Newtonsoft.Json.dll
+c:\users\z003pe7h\source\repos\SNOWRESTful4DMPM\SNOWRESTful4DMPM\bin\Debug\log4net.xml
+c:\users\z003pe7h\source\repos\SNOWRESTful4DMPM\SNOWRESTful4DMPM\bin\Debug\Newtonsoft.Json.xml
+c:\users\z003pe7h\source\repos\SNOWRESTful4DMPM\SNOWRESTful4DMPM\obj\Debug\SNOWRESTful4DMPM.exe
+c:\users\z003pe7h\source\repos\SNOWRESTful4DMPM\SNOWRESTful4DMPM\obj\Debug\SNOWRESTful4DMPM.pdb
